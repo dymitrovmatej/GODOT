@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Montego.wav-a2a4fce544794b70be1dbb230ae50d53.sample"
+
+[deps]
+
+source_file="res://Montego.wav"
+dest_files=[ "res://.import/Montego.wav-a2a4fce544794b70be1dbb230ae50d53.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0
