@@ -1,4 +1,4 @@
-GODOT
+GODOT GAME
 
 INF.: Jednoduchá skákačka s trochou protivníků, kteří nám brání se dostat k pokladu (černý dollar).
 
